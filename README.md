@@ -5,6 +5,10 @@ Zend Certified PHP Engineer:
 
 http://www.zend.com/en/services/certification/php-5-certification
 
+Zend Study Guide
+
+http://www.zend.com/en/services/certification/php-certification-study-guide
+
 ## Useful Study Resources:
 
 ### Blogs:
