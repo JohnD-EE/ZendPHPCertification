@@ -38,3 +38,36 @@ GitHub: php-certification-training:
 https://github.com/basselin/php-certification-training/tree/master/Questions
 
 
+### Topics:
+
+PHP Basics:
+* Syntax
+* Operators
+* Variables
+* Control Structures
+* Language Constructs and Functions
+* Namespaces 
+* Extensions
+* Config
+* Performance/bytecode caching
+
+
+Functions:
+* Arguments
+* Variables
+* References
+* Returns
+* Variable Scope
+* Anonymous Functions, closures
+
+Data Format & Types
+* XML Basics
+* SimpleXML
+* XML Extension
+* Webservices Basics
+* SOAP
+* JSON 
+* DateTime 
+* DOMDocument
+
+
