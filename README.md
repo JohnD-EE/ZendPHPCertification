@@ -142,7 +142,7 @@ Databases & SQL:
 * PDO
 
 
- Arrays:
+Arrays:
 * Associative Arrays
 * Array Iteration
 * Array Functions
