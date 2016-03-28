@@ -38,7 +38,7 @@ GitHub: php-certification-training:
 https://github.com/basselin/php-certification-training/tree/master/Questions
 
 
-### Topics:
+## Topics:
 
 PHP Basics:
 * Syntax
