@@ -15,6 +15,10 @@ http://www.lornajane.net/posts/2014/zend-certified-php-developer-5-5
 
 http://www.lornajane.net/zce-links-collection
 
+Edward Chung:
+
+http://edward-designer.com/web/passing-php-5-3-certification-exam
+
 Chis Bell:
 
 http://www.chrisbell.eu/how-to-become-a-zend-certified-engineer-zce-on-a-budget/
