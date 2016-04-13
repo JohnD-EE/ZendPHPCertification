@@ -1,14 +1,14 @@
 # Zend PHP Engineer Certification
 
-<img src="../../assets/images/zce-logo.jpg">
+<img src="../../assets/images/zce-logo.jpg" width="200">
 
 -----
 
-Web Features
+### Web Features
 
 -----
 
-### Contents
+## Contents
 
 * [Sessions](Sessions/sessions.md)
 * [Forms](Forms/forms.md)
