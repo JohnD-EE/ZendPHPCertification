@@ -1,6 +1,6 @@
 # Zend PHP Engineer Certification
 
-<img src="../assets/images/zce-php-engineer-logo-l.jpg">
+<img src="../../assets/images/zce-logo.jpg">
 
 -----
 
