@@ -5,10 +5,13 @@
 -----
 
 ### Web Features
+It's feasible to use PHP in non-web contexts e.g. Command Line Scripting or even for writing desktop apps ([What can PHP do?](http://php.net/manual/en/intro-whatcando.php)).
+According to the Davey Shafey book it is used in Point of Sale (POS) Systems, Quality Assurance systems and even jukeboxes.
+However it is primarily used for Web Programming.
 
 -----
 
-## Contents
+### Contents
 
 * [Sessions](Sessions/sessions.md)
 * [Forms](Forms/forms.md)
